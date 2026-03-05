@@ -1,1 +1,1 @@
-{"buildCommand":"npx vite build","outputDirectory":"dist","framework":"vite"}
+{"installCommand":"npm install","buildCommand":"./node_modules/.bin/vite build","outputDirectory":"dist"}
